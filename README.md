@@ -6,13 +6,16 @@ Collection of programming projects developed during courses at the University of
 
 ## Projects
 
-### [Human-Computer Interaction](./human-computer-interaction)
+## [Human-Computer Interaction](./human-computer-interaction)
 Projects related to:
 - human-centered design
 - usability engineering
 - cognitive psychology
 - communication psychology
 - app development
+  
+### [Museum Search App](./human-computer-interaction/museum-search-app)
+
 
 ---
 
