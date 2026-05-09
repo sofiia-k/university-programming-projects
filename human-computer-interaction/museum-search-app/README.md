@@ -7,7 +7,6 @@ The app was created for assignment A2: Mobile Programmierung einer einfachen App
 ## Student Information
 
 Name: Sofiia Kolner  
-Matrikelnummer: 12432376
 Course: HCI
 
 ## App Identifier
