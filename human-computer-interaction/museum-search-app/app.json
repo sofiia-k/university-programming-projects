@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "MuseumSearch",
+    "slug": "museum-search",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F7F3EC"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "at.ac.univie.hci.museumsearch",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F7F3EC"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8d0b95be-3462-4081-ae00-d300285befa5"
+      }
+    },
+    "owner": "sofiiak75"
+  }
+}
