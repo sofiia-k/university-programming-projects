@@ -9,7 +9,7 @@ Collection of programming projects developed during courses at the University of
 ## [Human-Computer Interaction](./human-computer-interaction)
   
 ### [Museum Search App](./human-computer-interaction/museum-search-app)
-Projects related to:
+Project related to:
 - human-centered design
 - usability engineering
 - cognitive psychology
